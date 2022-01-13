@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76234580809",
+    "project_id": "ecommerce-app-bcd14",
+    "storage_bucket": "ecommerce-app-bcd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76234580809:android:36b2a99d2074029e637098",
+        "android_client_info": {
+          "package_name": "com.Alsabagh.ecommerce_ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76234580809-d14ad07erfik303r38l3ak7umnplchu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszeEPbUih4VkL4XdiS_V0ZkfiN6jhkH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76234580809-d14ad07erfik303r38l3ak7umnplchu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
